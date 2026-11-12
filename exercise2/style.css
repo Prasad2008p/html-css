@@ -1,0 +1,60 @@
+body {
+      margin: 30px;
+  font-family: Arial, sans-serif;
+  background-color: #770bfbfa;
+  color: #120101;
+  line-height: 1.5;
+}
+
+  h1 {
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+  color: #01110d;
+  margin-bottom: 8px;
+}
+
+h2 {
+  color: #000a08;
+  margin-top: 28px;
+}
+
+a {
+  color: #010707;
+}
+.resource-card {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 24px;
+  background-color: #ffffff;
+  border: 1px solid #bbf7d0;
+  border-radius: 16px;
+}
+.summary {
+  color: #000504;
+  font-size: 20px;
+}
+img {
+  border: 1px solid #bbf7d0;
+  border-radius: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+td {
+  border: 1px solid #010f06;
+  padding: 8px 12px;
+}
+
+th {
+  border: 1px solid #000703;
+  padding: 8px 12px;
+  background-color: #838ff8;
+}
+
+
+
+
