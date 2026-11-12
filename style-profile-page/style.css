@@ -1,0 +1,58 @@
+body {
+  margin: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: #d6caf3;
+  color: #010005;
+  line-height: 1.5;
+}
+h1 {
+  color: #3801ed;
+  margin-bottom: 1px;
+}
+
+h2 {
+  color: #000e0b;
+  margin-top: 28px;
+}
+
+a {
+  color: #010b0a;
+}
+.resource-card {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 24px;
+  background-color: #e2c0d6;
+  border: 1px solid #010f06;
+  border-radius: 16px;
+}
+.summary {
+  color: #37685a;
+  font-size: 18px;
+}
+img {
+  border: 1px solid #9406fa;
+  border-radius: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+td {
+  border: 1px solid #8907fb;
+  padding: 8px 12px;
+}
+
+th {
+  border: 1px solid #bd05ec;
+  padding: 8px 12px;
+  background-color: #c66aed;
+}
+.resource-card {
+  margin: 8px auto;
+  padding: 8px auto;
+}
+
+
