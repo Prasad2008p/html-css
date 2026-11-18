@@ -90,8 +90,8 @@ h2 {
 
 .lesson-link:hover,
 .lesson-link:focus {
-  background-color: #a6aab5;
-  outline: 3px solid #bfdbfe;
+  background-color: #7f1d1d;
+  outline: 3px solid #111827;
   outline-offset: 3px;
 }
 a {
